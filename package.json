@@ -1,0 +1,17 @@
+{
+  "name": "speedtest-alert.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "speedtest-alert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "lodash": "^4.17.11",
+    "nodemailer": "^6.2.1",
+    "speedtest-net": "^2.1.1"
+  },
+  "author": "pauldevnull",
+  "license": "ISC"
+}
