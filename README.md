@@ -28,7 +28,7 @@ Speedtest-alert was created to measure download speeds on a local internet conne
 To receive SMS alerts, use your phone number for the "receiver" value in the "config.json" formatted depending on your cell service provider (e.g. "receiver": "5551234567@vtext.com"):
 ```
 AT&T				10digitphonenumber@txt.att.net
-Carolina West Wireless		10digit10digitnumber@cwwsms.com
+Carolina West Wireless		10digitphonenumber@cwwsms.com
 Cellular One			10digitphonenumber@mobile.celloneusa.com
 Illinois Valley Cellular	10digitphonenumber@ivctext.com
 Inland Cellular Telephone	10digitphonenumber@inlandlink.com
