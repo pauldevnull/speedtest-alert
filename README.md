@@ -41,3 +41,12 @@ US Cellular			10digitphonenumber@email.uscc.net
 Verizon				10digitphonenumber@vtext.com
 Virgin Mobile			10digitphonenumber@vmobl.com
 ```
+
+### Scheduling
+This script can be scheduled to run at a fixed interval. Guides can be found below depending on your operating system:
+* [Windows](https://joshuatz.com/posts/2020/using-windows-task-scheduler-to-automate-nodejs-scripts/)
+* [OS X](https://medium.com/better-programming/schedule-node-js-scripts-on-your-mac-with-launchd-a7fca82fbf02)
+* [Linux](https://www.howtogeek.com/101288/how-to-schedule-tasks-on-linux-an-introduction-to-crontab-files/)
+
+## Why?
+Sometimes routers or modems have bad days and need to be reboot, and sometimes ISPs have outages/service degredation and don't communicate with their customers or provide credits unless their customers contact them regarding the issue. This repository exists to provide people with a convenient way to stay informed about their internet speeds so that issues can be quickly mitigated.
