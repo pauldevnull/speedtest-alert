@@ -1,5 +1,5 @@
 # speedtest-alert
 
-## Description
+## Overview
 
 ## How to use
