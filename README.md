@@ -1,7 +1,10 @@
 # speedtest-alert
 
 ## Overview
-Speedtest-alert was created to measure download speeds on a local internet connection and send an email or sms when speeds are below a predefined threshold.
+Measures download speeds on a local internet connection and sends an email (or SMS) alert when speeds are below a predefined threshold.
+
+## Why?
+Sometimes routers or modems have bad days and need to be reboot, and sometimes ISPs have outages/service degredation and don't communicate with their customers or provide credits unless their customers contact them regarding the issue. This repository exists to provide people with a convenient way to stay informed about their internet speeds so that issues can be quickly mitigated.
 
 ## How To Use
 * Clone this repository: "git clone https://github.com/pauldevnull/speedtest-alert.git"
@@ -47,6 +50,3 @@ This script can be scheduled to run at a fixed interval. Guides can be found bel
 * [Windows](https://joshuatz.com/posts/2020/using-windows-task-scheduler-to-automate-nodejs-scripts/)
 * [OS X](https://medium.com/better-programming/schedule-node-js-scripts-on-your-mac-with-launchd-a7fca82fbf02)
 * [Linux](https://www.howtogeek.com/101288/how-to-schedule-tasks-on-linux-an-introduction-to-crontab-files/)
-
-## Why?
-Sometimes routers or modems have bad days and need to be reboot, and sometimes ISPs have outages/service degredation and don't communicate with their customers or provide credits unless their customers contact them regarding the issue. This repository exists to provide people with a convenient way to stay informed about their internet speeds so that issues can be quickly mitigated.
