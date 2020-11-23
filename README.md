@@ -1,6 +1,5 @@
 # speedtest-alert
 
-## Overview
 Measures download speeds on a local internet connection and sends an email (or SMS) alert when speeds are below a predefined threshold.
 
 ## Why?
